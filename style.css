@@ -1,16 +1,16 @@
 @font-face {
     font-family: c;
-    src: url(./archia-semibold-webfont.woff);
+    src: url(./fonts/archia-semibold-webfont.woff);
 }
 
 @font-face {
     font-family: b;
-    src: url(./archia-regular-webfont.woff);
+    src: url(./fonts/archia-regular-webfont.woff);
 }
 
 @font-face {
     font-family: a;
-    src: url(./archia-light-webfont.woff);
+    src: url(./fonts/archia-light-webfont.woff);
 }
 
 
